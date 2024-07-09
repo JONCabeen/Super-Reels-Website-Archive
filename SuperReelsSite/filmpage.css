@@ -1,0 +1,18 @@
+ iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+  }
+  a {
+      color: white;
+      align-self: right;
+      position: relative;
+      padding-bottom: 50px;
+  }
+  .banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

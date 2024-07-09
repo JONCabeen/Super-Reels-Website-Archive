@@ -1,0 +1,68 @@
+button {
+    background-color: blueviolet;
+}
+
+p {
+    background-color: none;
+    color:azure;
+}
+nav {
+    background-color: rgb(243, 0, 252);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+}
+a { color:gray;
+    margin: 20px;
+
+}
+#desc {
+    
+    height: auto;
+    width: 560px;
+    border: 5px solid rgb(192, 3, 250); 
+    border-radius: 10px;
+    position: relative;
+    padding: 2px;
+
+}
+
+body {
+    background-color: blueviolet;
+}
+#wall{
+   margin-left: 200px;
+
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 30px;
+  }
+.row {
+    content: "";
+    clear: both;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+  }
+  a {
+      color: white;
+      align-self: right;
+      position: relative;
+      padding-bottom: 50px;
+  }
+  .banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
